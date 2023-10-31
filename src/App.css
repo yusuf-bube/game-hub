@@ -1,0 +1,4 @@
+.counter-box {
+  display: inline-flex;
+  border: 1px solid blue;
+}
