@@ -1,4 +1,5 @@
-.counter-box {
-  display: inline-flex;
-  border: 1px solid blue;
+const App = () => {
+  return(
+    <p></p>
+  )
 }
